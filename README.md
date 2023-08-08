@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+If you see some emojis in my reviews, the legend is avaiable in [that gist](https://gist.github.com/nicoolas25/bbc2baf760e273e069361d0e1383587f).
+
 <!--
 **nicoolas25/nicoolas25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
